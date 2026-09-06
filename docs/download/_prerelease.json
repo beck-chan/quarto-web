@@ -1,88 +1,88 @@
 {
-  "version": "1.11.1",
-  "name": "v1.11.1",
-  "created": "2026-07-28T12:30:50Z",
-  "updated": "2026-07-28T12:38:14Z",
-  "published": "2026-07-28T12:37:54Z",
+  "version": "1.11.3",
+  "name": "v1.11.3",
+  "created": "2026-09-03T09:24:08Z",
+  "updated": "2026-09-03T09:30:31Z",
+  "published": "2026-09-03T09:30:13Z",
   "assets": [
     {
       "name": "changelog.md",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/changelog.md",
-      "checksum": "26f8fedba703ede1dfd4bbf3eac717b98b66de57b5c0febb0d18ec9ed3bcba2d",
-      "size": 384
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/changelog.md",
+      "checksum": "edcffddf8e6b13832b60a7ff6a289b6ca5d8d6e01c4dc99f4b4c63f494e604e1",
+      "size": 4877
     },
     {
-      "name": "quarto-1.11.1-checksums.txt",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-checksums.txt",
-      "checksum": "345c35f3864b904450e2a8c97cc56f2893d24d607bd3968d80f8f97fbc41f8b5",
+      "name": "quarto-1.11.3-checksums.txt",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-checksums.txt",
+      "checksum": "f48aaf7915eb668b6ce3ee472169890c7154d0d88c3dc2edf0e9fc19669d76c9",
       "size": 1031
     },
     {
-      "name": "quarto-1.11.1-linux-aarch64.rpm",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-aarch64.rpm",
-      "checksum": "333e089f66be8d858a9c532b9e0fdd040cf2a0955c10598119edf203a41056d2",
-      "size": 155511463
+      "name": "quarto-1.11.3-linux-aarch64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-aarch64.rpm",
+      "checksum": "6eafc83205cb412507798b84c6dbc24a2932c5f520e83f43b7ed668c8aaa63ce",
+      "size": 155601873
     },
     {
-      "name": "quarto-1.11.1-linux-amd64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.deb",
-      "checksum": "bcedc7acc73880e1e976413906aed88b4d71f09e858682219e2331f77ad75f2d",
-      "size": 149779782
+      "name": "quarto-1.11.3-linux-amd64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-amd64.deb",
+      "checksum": "a1baf1d04f4cd5a9fe75ad025efc04c89f07de88c2bfbc3519993b213d726eb3",
+      "size": 149530456
     },
     {
-      "name": "quarto-1.11.1-linux-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.tar.gz",
-      "checksum": "83251de1640bd7ee87e4df9bdd83bd46d116ce93783c19bbef6f64f1c913a1fe",
-      "size": 147006626
+      "name": "quarto-1.11.3-linux-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-amd64.tar.gz",
+      "checksum": "c408f8184233882ae9281a37dcc3f836817a5c2ab3322efc877e11926eeec696",
+      "size": 147005954
     },
     {
-      "name": "quarto-1.11.1-linux-arm64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.deb",
-      "checksum": "3cba425d77957b11a98448f72efb2be4071623fc5e8a70ed625cf7e85d679638",
-      "size": 150178834
+      "name": "quarto-1.11.3-linux-arm64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-arm64.deb",
+      "checksum": "3abb480b3a4615a086e504fbec57d57b7daaa75024b64144b2620bd4112ac912",
+      "size": 150184304
     },
     {
-      "name": "quarto-1.11.1-linux-arm64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.tar.gz",
-      "checksum": "19b81b88b16afb9fa196c182013bd1ea6d1fc9c99b5668c29a06de2d5861c743",
-      "size": 145968714
+      "name": "quarto-1.11.3-linux-arm64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-arm64.tar.gz",
+      "checksum": "f4f83a7a6dca346049a097122634e8d612f21ef3ac70c869b7260e98d5c9d1df",
+      "size": 145732020
     },
     {
-      "name": "quarto-1.11.1-linux-x86_64.rpm",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-x86_64.rpm",
-      "checksum": "d1e2ef3674973974988d233884c5774c33de258932dd271356caaddbcd9f2d2d",
-      "size": 156276990
+      "name": "quarto-1.11.3-linux-x86_64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-linux-x86_64.rpm",
+      "checksum": "2ba12fa216973a6624ec561d4fe43a4c65caac15769e9f5a5c20f7bb1dcd766e",
+      "size": 156093568
     },
     {
-      "name": "quarto-1.11.1-macos.pkg",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.pkg",
-      "checksum": "bfb847db9463f58ed5b8319c34d2d113c1ae3afd64df782cdb5e101bb87f0676",
-      "size": 247695513
+      "name": "quarto-1.11.3-macos.pkg",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-macos.pkg",
+      "checksum": "2f1ca049b111a214d56285f914a7b7ec1892efd45eddc9bdd3f05892bc8fef65",
+      "size": 247701081
     },
     {
-      "name": "quarto-1.11.1-macos.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.tar.gz",
-      "checksum": "39af2c40644fc8d4c70f747ee80838423cbac0addfdccfe3a3e580f6b51d8451",
-      "size": 247501208
+      "name": "quarto-1.11.3-macos.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-macos.tar.gz",
+      "checksum": "1a37fc683e4ddb4ba067c6fe1af071cfe78ac15ed25119c96eef55359e983a53",
+      "size": 247503876
     },
     {
-      "name": "quarto-1.11.1-win.msi",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.msi",
-      "checksum": "509fdbe9b2025f2499aeb631d50816ff62367713d4c94ec71ae588809a7b9afc",
-      "size": 148033536
+      "name": "quarto-1.11.3-win.msi",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-win.msi",
+      "checksum": "d5315f9d6f9a4f0de38efb1e6fc330e849954c33e05c748c49f5c1f46f594251",
+      "size": 148054016
     },
     {
-      "name": "quarto-1.11.1-win.zip",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.zip",
-      "checksum": "8a2955a172fcc9fa7eb464d8184ac1c919d249ff163caec07ee546fe6331a3cb",
-      "size": 148260318
+      "name": "quarto-1.11.3-win.zip",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3-win.zip",
+      "checksum": "24b0a0183c332aeac45a69c2f81ec8e2a410b652e69eef2babc7a6a898ba6e0d",
+      "size": 148281941
     },
     {
-      "name": "quarto-1.11.1.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1.tar.gz",
-      "checksum": "7d4b2cc92db002169e1ac2bd4a5a4fe8f27d4d3be5a27d71443247d27827ee31",
-      "size": 113385592
+      "name": "quarto-1.11.3.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.3/quarto-1.11.3.tar.gz",
+      "checksum": "10b59876d45176ffaf2c5c08fa0eb0dc318cc84995e5ee26f0ca835e08cb63da",
+      "size": 113420566
     }
   ],
-  "description": "All changes included in 1.11:\n\n## Engines\n\n### `knitr`\n\n- ([#14735](https://github.com/quarto-dev/quarto-cli/issues/14735)): Fix `cache-globals` rejecting arrays and booleans, so it now accepts the same forms as `cache-vars` and as knitr itself. Previously only a single string validated, which rejected both `cache-globals: [var_1, var_2]` and the documented `cache-globals: false`.\n"
+  "description": "All changes included in 1.11:\n\n## Regression fixes\n\n- ([#14741](https://github.com/quarto-dev/quarto-cli/issues/14741)): Don't wrap the `longtable` environment of a cross-referenceable table in a `{ ... }` group. Pandoc emits that group to scope its `\\def\\LTcaptype{none}`, which Quarto removes when adding its own `\\caption`; keeping the now-pointless group broke packages that move the environment out of the text flow, such as `endfloat` with `\\DeclareDelayedFloatFlavor*{longtable}{table}`.\n\n## Accessibility\n\n- ([#13463](https://github.com/quarto-dev/quarto-cli/issues/13463)): The dark/light mode toggle is now a switch (`button` with `role=\"switch\"`, `aria-checked`, and a localized `aria-label`) instead of a nameless link, in all three places it is created: website navbars/sidebars, plain documents with a light/dark theme pair, and multi-page dashboards. Screen readers now announce the control's name, role, and which mode is active, and Space activates it as well as Enter. Custom CSS targeting `a.quarto-color-scheme-toggle` should now target the `button` element instead.\n- ([#14615](https://github.com/quarto-dev/quarto-cli/issues/14615)): Fix invalid `role=\"menu\"` on the website navbar's collapse toggle button, flagged by axe-core (`aria-allowed-role`) and WAVE (`aria_menu_broken`) when the navbar collapses to the hamburger at narrow viewports.\n- ([#12116](https://github.com/quarto-dev/quarto-cli/issues/12116), [#4935](https://github.com/quarto-dev/quarto-cli/issues/4935)): Website sidebar section toggles are now `<button>` elements, so the keyboard can reach them and `Enter` or `Space` can operate them. Each toggle carries `aria-expanded`, and `aria-labelledby` names each disclosed list after its own section. The toggles no longer carry `role=\"navigation\"`, which removed a spurious navigation landmark from every section.\n- ([#14774](https://github.com/quarto-dev/quarto-cli/issues/14774)): Fix missing keyboard focus indicator on the code tools button and on a website's sidebar toggle and sidebar search buttons.\n\n## Formats\n\n### `dashboard`\n\n- ([#14818](https://github.com/quarto-dev/quarto-cli/issues/14818)): Fix a dashboard with more than one page going blank when the URL hash does not name a page, such as a footnote link or a cross-reference. Such a hash is now left alone, so the current page stays visible.\n- ([#14819](https://github.com/quarto-dev/quarto-cli/issues/14819)): Fix keyboard focus starting inside the page content when a dashboard opens at a page hash, such as `dashboard.html#sales`. Tabbing forward could not reach the navbar. Focus now starts at the top of the document.\n\n### `html`\n\n- ([#14684](https://github.com/quarto-dev/quarto-cli/issues/14684)): Add a \"Skip to main content\" link to Bootstrap-themed HTML output (documents, websites, books, dashboards) so keyboard users can bypass navigation blocks (WCAG 2.4.1). The link is the first tab stop on every page, visually hidden until focused, and its text is customizable via the `language` key `skip-to-content`. Dashboards additionally mark their content container as the `main` landmark.\n\n## Engines\n\n### `knitr`\n\n- ([#14735](https://github.com/quarto-dev/quarto-cli/issues/14735)): Fix `cache-globals` rejecting arrays and booleans, so it now accepts the same forms as `cache-vars` and as knitr itself. Previously only a single string validated, which rejected both `cache-globals: [var_1, var_2]` and the documented `cache-globals: false`.\n\n### `julia`\n\n- ([#14834](https://github.com/quarto-dev/quarto-cli/issues/14834)): Fix `ERROR: Internal Error` when rendering documents whose payload exceeds the Julia server's socket send buffer.\n- ([PumasAI/quarto-julia-engine#8](https://github.com/PumasAI/quarto-julia-engine/pull/8)): Support `keep-ipynb`, which writes the executed notebook to `<stem>.ipynb` alongside the source file.\n- ([PumasAI/quarto-julia-engine#13](https://github.com/PumasAI/quarto-julia-engine/pull/13)): Shell (`;`), help (`?`), and Pkg (`]`) mode cells now work when the cell has `#|` options.\n- ([PumasAI/quarto-julia-engine#11](https://github.com/PumasAI/quarto-julia-engine/pull/11)): Support `fig-format: retina`, normalized to `png` with doubled `fig-dpi` as in the `jupyter` and `knitr` engines.\n- ([PumasAI/quarto-julia-engine#7](https://github.com/PumasAI/quarto-julia-engine/pull/7)): Support `execute-dir`, shared worker processes across notebooks with matching configs (`share_worker_process: true`), and cached worker environments that persist across sessions.\n\n## Other fixes and improvements\n\n- ([#14775](https://github.com/quarto-dev/quarto-cli/issues/14775)): Fix a crash when the `QUARTO_R` environment variable is set to a malformed path. Quarto now warns and falls back to other R lookup strategies instead of aborting the render. ([posit-dev/positron#15614](https://github.com/posit-dev/positron/discussions/15614))\n"
 }
